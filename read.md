@@ -1,5 +1,5 @@
 # Step 1: Navigate to your project directory
-cd C:\Users\Biswa\Documents\Pro_codrr\Front-End\Project
+cd C:\Users\Text_Emotion_Detection
 
 # Step 2: Create a virtual environment (if not already created)
 python -m venv venv
